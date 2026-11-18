@@ -1,0 +1,3 @@
+rootProject.name = 'kintone-java-client'
+
+include 'e2e-tests'
